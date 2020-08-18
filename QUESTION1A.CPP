@@ -1,4 +1,4 @@
-//Question one
+//Question one part A
 #include <stdio.h>
 #include <stdlib.h>
 int main()
